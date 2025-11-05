@@ -1,1 +1,3 @@
-# this is the test child branch for edits and changes
+#Adding a new file to the child branch
+
+print("Inside the child branch")
